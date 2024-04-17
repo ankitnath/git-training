@@ -10,3 +10,6 @@ count_to_n(n)
 
 #---------------------------------------------------
 print("first modification for 2nd commit")
+
+#---------------------------------------------------
+print("Added 1st line from techteam1 on GitHub")
